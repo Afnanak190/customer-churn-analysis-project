@@ -1,0 +1,70 @@
+customer_id,name,age,gender,tenure,monthly_charges,total_charges,internet_service,payment_method,contract_type,churn
+C001,Arun K,25,male,5,450.5,2300,Fiber optic,UPI,Month-to-month,Yes
+C002, Neha  S ,??,female,12,590,??,Fiberr,Credit Card,Mont-to-mont,No
+C003,Rahul Menon,34,male, 24 ,670.0,16000,DSL ,UPI,Yearly,Yes
+C004,Meera  T,29,female,NAN,550.75,550.75, fiber optic ,Debit Card,Month-to-month,no
+C005,Aswin P,46,male,60,799,48000,Fiber optic,Cash,Two year,Yes
+C006, Athira S,38,female,14,699,NAN,DSL ,UPI,Mont-to-mont,No
+C007,Harish K,31,male,??,575,3400,Fiberr,Netbanking,Month-to-mont,Yes
+C008,Divya M,27,female,8, 620 ,4900.5,Fiber optic ,Credit Card,One year,No
+C009,Suraj P,45,male,56,820,??,DSL,UPI,Two year,Yes
+C010, Sneha  R,22,female,3,480.25,1400.75,??,Cash,Month-to-month,no
+C011,Abhijith K,33,male,20,670,15000,Fiber optic,Debit Card,Mont-to-mont,Yes
+C012,Anjali V,30,female,??,550,NAN,DSL ,UPI,Month-to-month,No
+C013,Vishnu S,41,male,49,720.0,35000,Fiberr,Netbanking,One year,Yes
+C014, Lakshmi  L,28,female,16,630,10200,fiber optic,Credit Card,Two year,No
+C015,Arjun R,39,male,30,700,NAN,DSL ,UPI,Month-to-month,Yes
+C016,Megha K,26,female,??,580,3400,Fiber optic,Debit Card,Mont-to-mont,no
+C017,Praveen T,47,male,60,890,45000,Fiberr ,Cash,Two year,Yes
+C018,Nimisha P,24,female,4,499.5,2000,DSL,UPI,Month-to-month,No
+C019,Rehan A,29,male,NAN,650,7800,Fiber optic,Credit Card,One year,Yes
+C020, Arya  S,33,female,20,600,13000,DSL ,Netbanking,Mont-to-mont,no
+C021,Gokul M,36,male,44,720,32000,Fiberr,UPI,One year,Yes
+C022, Keerthi M,28,female,??,560.25,NAN,Fiber optic ,Credit Card,Month-to-month,No
+C023,Santhosh P,52,male,60,850,48000,DSL ,Cash,Two year,Yes
+C024,Nisha K,27,female,10,590,5000,Fiberr,Debit Card,Mont-to-mont,no
+C025,Akash S,31,male,12,650,7000,DSL,UPI,Month-to-month,Yes
+C026, Remya V,30,female,18,620,11000,Fiber optic,Netbanking,Yearly,No
+C027,Rohit B,40,male,NAN,730,33000,DSL ,Cash,Mont-to-mont,Yes
+C028, Sreya  P,23,female,5,510,2000,Fiberr,UPI,Month-to-month,No
+C029,Naveen T,37,male,48,800.75,39000,Fiber optic,Credit Card,Two year,Yes
+C030, Ammu M,26,female,11,570,5600,DSL,Debit Card,One year,no
+C031,Jithin S,43,male,55,830,??,Fiber optic ,Cash,Two year,Yes
+C032,Anu L,29,female,14,NAN,6800,DSL,UPI,Mont-to-mont,no
+C033,Manu R,35,male,20,700,14000,Fiberr,Netbanking,Month-to-mont,Yes
+C034, Keerthana S,21,female,3,480,1500,Fiber optic,Credit Card,One year,No
+C035,Kiran K,28,male,??,600.5,??,DSL ,UPI,Month-to-mont,Yes
+C036,Shilpa P,32,female,18,650,12000,Fiberr,Debit Card,Month-to-mont,no
+C037,Basil T,44,male,50,810,43000,fiber optic,UPI,Yearly,Yes
+C038, Nayana  V,27,female,12,600,7000,DSL,Netbanking,Mont-to-mont,no
+C039,Rajeesh P,39,male,30,730,29000,Fiber optic,Credit Card,One year,Yes
+C040, Diya S,25,female,8,520.25,4500,Fiberr,Cash,Month-to-month,no
+C041,Akhil K,30,male,20,650,16000,DSL ,UPI,Month-to-month,Yes
+C042,Reshma M,28,female,NAN,590,??,Fiber optic,Debit Card,Mont-to-mont,no
+C043,Sachin P,42,male,48,820,40000,Fiberr,Netbanking,Two year,Yes
+C044, Megha  T,24,female,6,510,2700,DSL,UPI,One year,No
+C045,Suhail K,34,male,22,680,13000,Fiberr,Credit Card,Month-to-mont,Yes
+C046, Divya L,29,female,10,590.5,NAN,DSL ,Debit Card,Mont-to-mont,no
+C047,Joel A,45,male,55,850,47000,Fiber optic,UPI,Two year,Yes
+C048, Nandana S,23,female,4,520,2000,DSL ,Credit Card,Month-to-mont,no
+C049,Abin B,33,male,25,690,15000,Fiberr,Netbanking,Month-to-mont,Yes
+C050, Athulya M,27,female,12,600,7500,fiber optic,UPI,Yearly,No
+C051,Rahim T,41,male,50,810,42000,DSL ,UPI,Two year,Yes
+C052,Meenu K,25,female,7,540.5,3500,Fiberr,Credit Card,Month-to-mont,no
+C053,Sarath P,36,male,32,700,18000,Fiber optic,Cash,One year,Yes
+C054, Aiswarya V,29,female,14,600,8500,DSL,Netbanking,Mont-to-mont,no
+C055,Amal R,38,male,NAN,720,31000,Fiberr,UPI,Month-to-mont,Yes
+C056, Fathima M,24,female,5,499,2300,Fiber optic,Debit Card,Month-to-mont,no
+C057,Jinson K,40,male,40,740,26000,DSL ,Credit Card,One year,Yes
+C058, Riya S,26,female,9,580,5800,Fiberr,Cash,Month-to-mont,no
+C059,Afsal P,35,male,20,690,14500,Fiber optic,UPI,Mont-to-mont,Yes
+C060, Neethu L,28,female,11,600,7500,DSL ,Netbanking,One year,no
+C061,Varun T,44,male,52,830,41000,Fiberr,Credit Card,Two year,Yes
+C062, Vidya  K,27,female,13,590,7000,Fiber optic,UPI,Month-to-mont,no
+C063,Binoy M,33,male,25,680,16000,DSL,Debit Card,Mont-to-mont,Yes
+C064, Nivya P,22,female,3,480,1400,Fiberr,Cash,Month-to-mont,no
+C065,Renjith K,39,male,30,720,28000,Fiber optic,UPI,One year,Yes
+C066, Athira L,29,female,15,610,9000,DSL ,Credit Card,Mont-to-mont,no
+C067,Kishore P,46,male,60,870,45000,Fiberr,Netbanking,Two year,Yes
+C068, Arya T,24,female,6,510,2400,Fiber optic,UPI,Month-to-mont,no
+C069,Deepak S,,,,,,,,,
